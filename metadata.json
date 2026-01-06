@@ -1,0 +1,5 @@
+{
+  "name": "Cashback Smart Assistant",
+  "description": "An AI-powered assistant to optimize your monthly cashback selection across Russian banking apps using screenshot analysis.",
+  "requestFramePermissions": []
+}
